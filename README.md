@@ -10,3 +10,4 @@
 - [ ] Subir el proyecto de sistema de asistencias (php y sql)
 - [x] Subir el proyecto del juego de los dinos (c++ y sfml) ***falta readme***
 - [ ] Subir el paper de la ruta minima (c++)
+- [ ] Programa que te permita crear sorteos
