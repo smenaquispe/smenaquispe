@@ -11,7 +11,7 @@ I am a student of computer science, a keen of coding and the tech world. I would
  
  ### Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24" taget="_blank">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://user-images.githubusercontent.com/109475768/230745706-8df4b886-9ff0-4c28-871e-1c39f6b15be7.png" alt="Arch" width="24">](https://archlinux.org/) 
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24" taget="blank">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://user-images.githubusercontent.com/109475768/230745706-8df4b886-9ff0-4c28-871e-1c39f6b15be7.png" alt="Arch" width="24">](https://archlinux.org/) 
 |---|---|---|---|
 
 
