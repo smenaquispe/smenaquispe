@@ -1,13 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Sergio 💻🤗👋
 
-## goals:
-- [ ] Crear la pagina de Restaurante (con express y mongodb)
-- [ ] Crear una aplicacion de piano, manejado con las teclas
-- [ ] Crear aplicacion de whatsapp ***en proceso***
-- [ ] Crear app con ai ***en proceso***
-- [x] Crear un crud (con express y mongodb) ***falta diseño y readme***
-- [ ] Subir el proyecto de medidor de agua (arduino y processing)
-- [ ] Subir el proyecto de sistema de asistencias (php y sql)
-- [x] Subir el proyecto del juego de los dinos (c++ y sfml) ***falta readme***
-- [ ] Subir el paper de la ruta minima (c++)
-- [ ] Programa que te permita crear sorteos
+<!--
+**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination
+- 🌱 I’m currently learning how to play guitar, write accademically, make films, and be consistent.
+- 👯 I’m looking to collaborate on music, movies, cool AI stuff, anything I think is fun and worth while. 
+- 🤔 I’m looking for help with how to host a website locally.
+- 💬 Ask me about film theory, italian litterature, editing films, social media, or politics.
+- 📫 How to reach me: rehumilebiagini@gmail.com
+- 😄 Pronouns: He/him 
+- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis
