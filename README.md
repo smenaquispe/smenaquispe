@@ -21,7 +21,20 @@
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://user-images.githubusercontent.com/109475768/230745706-8df4b886-9ff0-4c28-871e-1c39f6b15be7.png" alt="Arch" width="24">](https://archlinux.org/) 
 |---|---|---|---|
 
-<h3> 🤝🏻 Connect with Me </h3>
+### Projects 🔨
+
+#### Projects I'm working
+- [AppLegal](https://applegal.cloud/)
+
+#### Projects of my own 
+- [Michi](https://github.com/smenaquispe/michi)
+- [Classifier](https://github.com/smenaquispe/classifier)
+- [My crud](https://github.com/smenaquispe/mycrud-v2)
+
+#### Challenges of ONE Oracle
+- [Challenge 1](https://github.com/smenaquispe/-Challenge-Sprint-01-One-Oracle)
+
+<h3> 🏻 Connect with Me 🤝 </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sergio-mena-quispe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@SergioMenaQuispe-blue?style=flat&logo=linkedin"></a>
