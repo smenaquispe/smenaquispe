@@ -1,42 +1,49 @@
-## Hi there, I'm [Sergio](https://www.linkedin.com/in/sergio-mena-quispe/) 💻🤗👋
+# 👋 ¡Hola! Soy Sergio Mena Quispe
 
-<!--
-**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Soy un **Desarrollador de Software** con 2 años de experiencia en el desarrollo y mantenimiento de aplicaciones. Mi enfoque principal es **Python** y **React**, pero también tengo experiencia en otras tecnologías como ElectronJS, WordPress, y modelos de **IA generativa**. Actualmente, estoy cursando el 8vo semestre de **Ciencia de la Computación** en la Universidad Nacional de San Agustín de Arequipa.
 
-### About Me 👦
+## 🚀 Tecnologías y Herramientas
 
-- 👨‍🎓 I'm student of computer science.
-- 🌱 I'm currently learning reactjs and express js.
-- 🔭 I'm looking for collaborate in different web projects.
-- 💬 Ask me about sports, IA, social media, web dev, or politics.
-- 😄 Pronouns: He/him.
+- **Lenguajes:** Python 🐍, JavaScript (React ⚛️, Node.js)
+- **Frameworks y Librerías:** Flask, Next.js, TailwindCSS
+- **Bases de Datos:** MySQL, PostgreSQL
+- **Herramientas de Desarrollo:** Git, Docker, VS Code
+- **Otros:** WordPress, ElectronJS, Scrapy, Selenium
 
-### Programming Languages 🌐
-| [<img src="https://user-images.githubusercontent.com/109475768/230745308-52b04473-a6e7-4c0d-b4b1-5f333162f689.png" alt="React" width="24">](https://es.reactjs.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/es/docs/Web/JavaScript) | [<img src="https://user-images.githubusercontent.com/109475768/230745418-e85ff4d3-055d-45fe-a1cd-3b32134fa963.png" alt="TypeScript" width="24">](https://www.typescriptlang.org/) | [<img src="https://user-images.githubusercontent.com/109475768/230745516-ee317439-ec85-49e1-a96d-c0ec269fbf31.png" alt="Node" width="24">](https://nodejs.org/es)
-|---|---|---|---|
- 
- ### Tools 🛠️
+## 🛠️ Proyectos Destacados
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://user-images.githubusercontent.com/109475768/230745706-8df4b886-9ff0-4c28-871e-1c39f6b15be7.png" alt="Arch" width="24">](https://archlinux.org/) 
-|---|---|---|---|
+### [Ultimate Video Maker](https://ultimatevideomaker.com/)
+- **Rol:** Líder de Desarrollo e Ingeniero de Software
+- **Descripción:** Herramienta para generar videos utilizando IA generativa (Midjourney, DALL·E-3, GPT-3.5).
+- **Tecnologías:** Python, React, ElectronJS, Google Text-to-Speech
 
-### Projects 🔨
+### [Object](https://obgbim.com/)
+- **Rol:** Desarrollador Web
+- **Descripción:** Creación de una página web educativa utilizando WordPress con integración de pagos seguros mediante Mercado Pago.
+- **Tecnologías:** WordPress, PHP, Mercado Pago
 
-#### Projects I'm working
-- [Ultimate Video Maker]([https://applegal.cloud/](https://ultimatevideomaker.com/))
+### Freelance
+- **Rol:** Programador
+- **Descripción:** Desarrollo de scrapers y scripts de automatización (RPA) personalizados, así como pequeños scripts en Node.js.
+- **Tecnologías:** Python, Node.js, Selenium, Scrapy
 
-#### Projects of my own 
-- [Michi](https://github.com/smenaquispe/michi)
-- [Classifier](https://github.com/smenaquispe/classifier)
-- [My crud](https://github.com/smenaquispe/mycrud-v2)
+## 🏆 Logros y Reconocimientos
 
-#### Challenges of ONE Oracle
-- [Challenge 1](https://github.com/smenaquispe/-Challenge-Sprint-01-One-Oracle)
+- Participación en la **HACKATHON INTELIGENCIA ARTIFICIAL GPT-4 2023** de NTT DATA en la Universidad Católica San Pablo.
+- **Ganador** de la oportunidad de viajar a Silicon Valley gracias a UTK United Technologies for Kids por un concurso de robótica en mi etapa escolar.
 
-<h3> 🏻 Connect with Me 🤝 </h3>
+## 📫 Cómo contactarme
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sergio-mena-quispe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@SergioMenaQuispe-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:sergiosantosmenaq@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sergiosantosmenaq@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+- **LinkedIn:** [linkedin.com/in/sergio-mena-quispe](https://linkedin.com/in/sergio-mena-quispe)
+- **Correo:** sergiosantosmenaq@gmail.com
+- **Ubicación:** Arequipa, Perú 🇵🇪
+
+## 🌱 Actualmente
+
+- Estoy trabajando como **desarrollador frontend** voluntario para [Amarillos de Oro](https://www.linkedin.com/in/amarillos-de-oro/), utilizando Next.js y TailwindCSS.
+- Aprendiendo más sobre **modelos de IA generativa** y su implementación en proyectos de software.
+
+---
+
+¡Gracias por visitar mi perfil! 😊 Estoy siempre abierto a colaborar en proyectos interesantes o simplemente a charlar sobre tecnología. No dudes en contactarme.
+
